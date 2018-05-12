@@ -15,6 +15,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a35785
     - http://en.wikipedia.org/wiki/Henry_William_Herbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19730#Warwick-WoodlandsThings-as-they-Were-There-Twenty-Years-Ago
 gutenberg_issued: '2006-11-06'
 gutenberg_type: Text
 identifiers:
